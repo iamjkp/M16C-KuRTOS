@@ -1,0 +1,31 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.1" 
+[CURRENT_PROJECT]
+"KuRTOS" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\WorkSpace\KuRTOS\KuRTOS\common.h" 
+"C:\WorkSpace\KuRTOS\KuRTOS\Empty.c" 
+"C:\WorkSpace\KuRTOS\KuRTOS\mcu_init.c" 
+"C:\WorkSpace\KuRTOS\KuRTOS\message.c" 
+"C:\WorkSpace\KuRTOS\KuRTOS\ncrt0.a30" 
+"C:\WorkSpace\KuRTOS\KuRTOS\qsk_lcd.c" 
+"C:\WorkSpace\KuRTOS\KuRTOS\qsk_lcd.h" 
+"C:\WorkSpace\KuRTOS\KuRTOS\sched.c" 
+"C:\WorkSpace\KuRTOS\KuRTOS\sect30.inc" 
+"C:\WorkSpace\KuRTOS\KuRTOS\sem.c" 
+[WORKSPACE_FILE_STATES]
+"C:\WorkSpace\KuRTOS\KuRTOS\Empty.c" 0 0 1183 516 0 1 
+"C:\WorkSpace\KuRTOS\KuRTOS\common.h" 0 0 1183 516 0 8 
+"C:\WorkSpace\KuRTOS\KuRTOS\mcu_init.c" 0 0 1039 364 0 0 
+"C:\WorkSpace\KuRTOS\KuRTOS\message.c" 66 87 1065 337 0 9 
+"C:\WorkSpace\KuRTOS\KuRTOS\ncrt0.a30" 0 0 1183 516 0 5 
+"C:\WorkSpace\KuRTOS\KuRTOS\qsk_lcd.c" 66 87 1065 337 0 3 
+"C:\WorkSpace\KuRTOS\KuRTOS\qsk_lcd.h" 44 58 1043 368 0 2 
+"C:\WorkSpace\KuRTOS\KuRTOS\sched.c" -4 -30 1183 546 1 7 
+"C:\WorkSpace\KuRTOS\KuRTOS\sect30.inc" 88 116 1065 337 0 4 
+"C:\WorkSpace\KuRTOS\KuRTOS\sem.c" 0 0 1065 337 0 6 
+[END]

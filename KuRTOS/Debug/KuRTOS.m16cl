@@ -1,0 +1,11 @@
+-L "nc30lib"
+-G
+-MS
+-O "C:\WorkSpace\KuRTOS\KuRTOS\Debug\KuRTOS.x30"
+"C:\WorkSpace\KuRTOS\KuRTOS\Debug\ncrt0.r30"
+"C:\WorkSpace\KuRTOS\KuRTOS\Debug\Empty.r30"
+"C:\WorkSpace\KuRTOS\KuRTOS\Debug\mcu_init.r30"
+"C:\WorkSpace\KuRTOS\KuRTOS\Debug\message.r30"
+"C:\WorkSpace\KuRTOS\KuRTOS\Debug\qsk_lcd.r30"
+"C:\WorkSpace\KuRTOS\KuRTOS\Debug\sched.r30"
+"C:\WorkSpace\KuRTOS\KuRTOS\Debug\sem.r30"
